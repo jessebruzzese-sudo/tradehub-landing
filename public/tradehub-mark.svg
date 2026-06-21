@@ -1,0 +1,15 @@
+<svg viewBox="0 0 471 361" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M262 66H27C12 66 0 78 0 93v107c0 15 12 27 27 27h102v102c0 15 12 27 27 27h107c15 0 27-12 27-27V93c0-15-12-27-27-27zm-8 254H164V192H35v-90h219v218z"
+    fill="#2563EB"
+  />
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M445 171H209c-15 0-27-12-27-27V27C182 12 194 0 209 0h236c15 0 27 12 27 27v117c0 15-12 27-27 27zM218 135h219V35H218v100z"
+    fill="#93C5FD"
+  />
+  <rect x="254" y="124" width="35" height="72" fill="#2563EB" />
+</svg>
